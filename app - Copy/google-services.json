@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943273674594",
+    "project_id": "greenglobe-cca93",
+    "storage_bucket": "greenglobe-cca93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943273674594:android:bac0ce66529473f0f70e3b",
+        "android_client_info": {
+          "package_name": "com.SShayar.greenglobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK__awkVZqhQIb1uFftDyvasApgg3U1VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
