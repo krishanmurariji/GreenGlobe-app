@@ -15,7 +15,12 @@ Green Globe is a social media app that encourages users to protect the earth by 
 
 ## Screenshots
 
-<img src="screenshots/signup.jpg" width="200"> <img src="screenshots/login.jpg" width="200"> <img src="screenshots/upload.jpg" width="200"> <img src="screenshots/profile.jpg" width="200"> <img src="screenshots/feed.jpg" width="200"> <img src="screenshots/notifications.jpg" width="200">
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(1).jpg)" width="200"> 
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(2).jpg)" width="200"> 
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(3).jpg)" width="200"> 
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(4).jpg)" width="200"> 
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(5).jpg)" width="200"> 
+<img src="[screenshots/signup.jpg](https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(6).jpg)" width="200"> 
 
 ## Tech Stack
 
