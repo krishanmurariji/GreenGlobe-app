@@ -17,7 +17,7 @@ Green Globe is a social media app that encourages users to protect the earth by 
 <p><img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(8).jpg" width="200"> 
 <img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(2).jpg" width="200"> 
 <img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(3).jpg" width="200"> 
-<img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(4).jpg" width="200"><img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(1).jpg" width="200"></p> 
+<img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(4).jpg" width="200"></p> 
 
 
 ## Tech Stack
