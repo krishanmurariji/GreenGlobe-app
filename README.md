@@ -41,7 +41,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is open-source and is licensed under the MIT license.
 
-## Contact
+## About Author
 # Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
