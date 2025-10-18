@@ -12,8 +12,9 @@ Green Globe is a social media app that encourages users to protect the earth by 
 - Explore profiles and discover new ways to save the earth
 - Gamified challenges and rewards for active users
 
-## Screenshots
+## 📱 App Demo
 
+[![Watch the Instagram Clone Demo](https://img.youtube.com/vi/Gudwq2xc4XM/maxresdefault.jpg)](https://youtube.com/shorts/Gudwq2xc4XM)
 <p><img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(8).jpg" width="200"> 
 <img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(2).jpg" width="200"> 
 <img src="https://github.com/krishanmurariji/KrishanMurari_portfolio/blob/master/img/GreenGlobe%20(3).jpg" width="200"> 
